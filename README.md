@@ -1,7 +1,7 @@
 ### Olá, sou o professor Guilherme 👋
 
 ##👀 Eu estou interessado em aprender a programar novas linguagens
-##🎓 Eu estou aprendendo a programar recentemente a linguagem HTML 
+-##🎓 Eu estou aprendendo a programar recentemente a linguagem HTML 
 <!--
 **GuilhermeLeite30/GuilhermeLeite30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
